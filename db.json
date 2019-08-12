@@ -1,0 +1,45 @@
+{
+  "customers": [
+    {
+      "dni": "27000",
+      "name": "JUAN PEREZA",
+      "age": 35,
+      "id": "27000"
+    },
+    {
+      "id": "30000",
+      "dni": "30002",
+      "name": "RENE MARCANO",
+      "age": 37
+    },
+    {
+      "id": "33000",
+      "dni": "33000",
+      "name": "Luis Martínez",
+      "age": 33
+    },
+    {
+      "dni": "99999",
+      "name": "Rafael Sanchez",
+      "age": 28,
+      "id": "iJASti2"
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
